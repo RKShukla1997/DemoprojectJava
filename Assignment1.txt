@@ -1,0 +1,13 @@
+Question-1
+public class HelloWorld{
+	public static void main(String[] args){
+	System.out.println("Hello World!");
+	}	
+}
+
+Question-2
+public class Name{
+	public static void main(String[] args){
+	System.out.println("Rudresh Kumar Shukla");
+	}	
+}
